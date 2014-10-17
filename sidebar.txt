@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[elk:home|Door43 (elk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-elk|d43-elk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-elk/archive/master.zip|d43-elk.zip]]
+
+**Recent Changes**
+{{changes>ns = elk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/elk|Ethnologue data]]
+
